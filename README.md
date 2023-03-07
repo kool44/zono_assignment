@@ -1,5 +1,4 @@
 # zono_assignment
 
-# change the input string accordingly
-
-# run node inventory.js
+step1 : change the input string accordingly
+step2 : run node inventory.js
